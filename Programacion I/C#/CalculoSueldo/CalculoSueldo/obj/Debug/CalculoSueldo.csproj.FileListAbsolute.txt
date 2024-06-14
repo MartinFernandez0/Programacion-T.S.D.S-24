@@ -1,0 +1,7 @@
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe.config
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.exe
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\bin\Debug\CalculoSueldo.pdb
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.AssemblyReference.cache
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.csproj.CoreCompileInputs.cache
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.exe
+C:\Users\Martin Fernandez\source\repos\CalculoSueldo\CalculoSueldo\obj\Debug\CalculoSueldo.pdb

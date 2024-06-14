@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jt21ifB70TQ=",
+  "success": true,
+  "projectFilePath": "C:\\MARTIN\\Programacion\\ProgramacionTSDS24\\ProgramacionI\\C#\\Tp-Programacion\\LibrosDesktop\\LibrosDesktop\\LibrosDesktop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Martin Fernandez\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

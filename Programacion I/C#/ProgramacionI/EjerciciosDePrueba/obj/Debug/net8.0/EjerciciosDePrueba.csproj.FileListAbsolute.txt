@@ -1,0 +1,14 @@
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\bin\Debug\net8.0\EjerciciosDePrueba.exe
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\bin\Debug\net8.0\EjerciciosDePrueba.deps.json
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\bin\Debug\net8.0\EjerciciosDePrueba.runtimeconfig.json
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\bin\Debug\net8.0\EjerciciosDePrueba.dll
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\bin\Debug\net8.0\EjerciciosDePrueba.pdb
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.AssemblyInfoInputs.cache
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.AssemblyInfo.cs
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.csproj.CoreCompileInputs.cache
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.dll
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\refint\EjerciciosDePrueba.dll
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.pdb
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\EjerciciosDePrueba.genruntimeconfig.cache
+C:\Users\Martin Fernandez\Desktop\MARTIN\2DO - AÑO\PROGRAMACION I\C#\ProgramacionI\EjerciciosDePrueba\obj\Debug\net8.0\ref\EjerciciosDePrueba.dll

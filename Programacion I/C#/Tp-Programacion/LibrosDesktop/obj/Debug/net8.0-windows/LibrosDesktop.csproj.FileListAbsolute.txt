@@ -1,0 +1,17 @@
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\bin\Debug\net8.0-windows\LibrosDesktop.exe
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\bin\Debug\net8.0-windows\LibrosDesktop.deps.json
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\bin\Debug\net8.0-windows\LibrosDesktop.runtimeconfig.json
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\bin\Debug\net8.0-windows\LibrosDesktop.dll
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\bin\Debug\net8.0-windows\LibrosDesktop.pdb
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.Form1.resources
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.csproj.GenerateResource.cache
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.AssemblyInfoInputs.cache
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.AssemblyInfo.cs
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.csproj.CoreCompileInputs.cache
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.sourcelink.json
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.dll
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\refint\LibrosDesktop.dll
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.pdb
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\LibrosDesktop.genruntimeconfig.cache
+C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\LibrosDesktop\obj\Debug\net8.0-windows\ref\LibrosDesktop.dll

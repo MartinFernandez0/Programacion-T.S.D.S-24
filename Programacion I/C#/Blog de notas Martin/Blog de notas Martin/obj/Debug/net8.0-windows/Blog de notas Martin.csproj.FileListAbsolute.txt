@@ -1,0 +1,16 @@
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\bin\Debug\net8.0-windows\Blog de notas Martin.exe
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\bin\Debug\net8.0-windows\Blog de notas Martin.deps.json
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\bin\Debug\net8.0-windows\Blog de notas Martin.runtimeconfig.json
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\bin\Debug\net8.0-windows\Blog de notas Martin.dll
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\bin\Debug\net8.0-windows\Blog de notas Martin.pdb
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog_de_notas_Martin.Form1.resources
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.csproj.GenerateResource.cache
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.AssemblyInfoInputs.cache
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.AssemblyInfo.cs
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.csproj.CoreCompileInputs.cache
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.dll
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\refint\Blog de notas Martin.dll
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.pdb
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\Blog de notas Martin.genruntimeconfig.cache
+C:\Users\Martin Fernandez\source\repos\Blog de notas Martin\Blog de notas Martin\obj\Debug\net8.0-windows\ref\Blog de notas Martin.dll
