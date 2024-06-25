@@ -30,7 +30,7 @@ namespace FotosDesktop
         {
             AgregarEditarFotoView agregarEditarFotoView = new AgregarEditarFotoView();
             agregarEditarFotoView.ShowDialog();
-
+            CargarFotos();
         }
 
         private void btnSalirFotos_Click(object sender, EventArgs e)

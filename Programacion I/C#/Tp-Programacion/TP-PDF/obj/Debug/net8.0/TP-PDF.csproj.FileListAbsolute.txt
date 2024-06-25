@@ -74,3 +74,21 @@ C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\TP-PD
 C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.csproj.AssemblyReference.cache
 C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.csproj.Up2Date
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\TP-PDF.exe
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\TP-PDF.deps.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\TP-PDF.runtimeconfig.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\TP-PDF.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\TP-PDF.pdb
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.csproj.AssemblyReference.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.AssemblyInfoInputs.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.AssemblyInfo.cs
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.csproj.CoreCompileInputs.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.sourcelink.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.csproj.Up2Date
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\refint\TP-PDF.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.pdb
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\TP-PDF.genruntimeconfig.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\TP-PDF\obj\Debug\net8.0\ref\TP-PDF.dll

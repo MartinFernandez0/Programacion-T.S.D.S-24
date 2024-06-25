@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FotosDesktop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b8e0080328bd83f0a23c3caa9f132e29fbe283b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8437d5391f3dd01f77eb353180e80da3aae16b84")]
 [assembly: System.Reflection.AssemblyProductAttribute("FotosDesktop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FotosDesktop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

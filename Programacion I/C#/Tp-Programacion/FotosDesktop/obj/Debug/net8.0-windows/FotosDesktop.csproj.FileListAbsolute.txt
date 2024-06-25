@@ -26,3 +26,31 @@ C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\Fotos
 C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\ref\FotosDesktop.dll
 C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.GestionFotosView.resources
 C:\MARTIN\Programacion\ProgramacionTSDS24\ProgramacionI\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.View.AgregarEditarFotoView.resources
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\TP-PDF.deps.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\TP-PDF.runtimeconfig.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\TP-PDF.exe
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\FotosDesktop.exe
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\FotosDesktop.deps.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\FotosDesktop.runtimeconfig.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\FotosDesktop.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\FotosDesktop.pdb
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\TP-PDF.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\bin\Debug\net8.0-windows\TP-PDF.pdb
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.csproj.AssemblyReference.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.Properties.Resources.resources
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.View.AgregarEditarFotoView.resources
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.GestionFotosView.resources
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.MenuInicioFotosView.resources
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.csproj.GenerateResource.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.GeneratedMSBuildEditorConfig.editorconfig
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.AssemblyInfoInputs.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.AssemblyInfo.cs
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.csproj.CoreCompileInputs.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.sourcelink.json
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDes.300918A8.Up2Date
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\refint\FotosDesktop.dll
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.pdb
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\FotosDesktop.genruntimeconfig.cache
+C:\MARTIN\Programación T.S.D.S 24\Programacion I\C#\Tp-Programacion\FotosDesktop\obj\Debug\net8.0-windows\ref\FotosDesktop.dll
